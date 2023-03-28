@@ -175,7 +175,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000",
     "http://localhost:3000",
     "https://delicate-monstera-d4547d.netlify.app",
-    "crazyform.store",
+    "https://crazyform.store",
     "https://snazzy-quokka-792606.netlify.app",
 ]
 
@@ -183,7 +183,7 @@ CSRF_TRUSTED_ORIGINS = [
     "http://127.0.0.1:3000",
     "http://localhost:3000",
     "https://delicate-monstera-d4547d.netlify.app",
-    "crazyform.store",
+    "https://crazyform.store",
     "https://snazzy-quokka-792606.netlify.app",
 ]
 
